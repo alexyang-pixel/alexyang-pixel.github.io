@@ -20,6 +20,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
+  disquis_shortname: securecodellc
   style: black
   title: Alex Yang
   tagline: Code Specialist
