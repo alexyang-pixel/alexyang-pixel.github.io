@@ -5,6 +5,7 @@ description: What is SSDLC. Why is it important?
 date:   2020-04-02 21:03:36 +0530
 categories: SDLC Secure Coding
 ---
+
 Generally speaking, a secure SDLC is set up by adding security-related activities to an existing development process. For example, writing security requirements alongside the collection of functional requirements, or performing an architecture risk analysis during the design phase of the SDLC.
 
 ## Many secure SDLC models have been proposed. Here are a few of them:
