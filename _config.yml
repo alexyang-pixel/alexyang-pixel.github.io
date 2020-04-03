@@ -12,8 +12,9 @@ baseurl:
 sass:
   sass_dir: _sass
 
-permalink: /posts/:title/
-texture: black
+  permalink: /posts/:title/
+texture:
+  style: black
   title: Alex Yang
   tagline: Code Specialist
   date_format: "%b %-d, %Y"
