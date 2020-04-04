@@ -9,6 +9,7 @@ layout: page
 		<div class="post-meta">
 			<a class="post-link" href="{{ post.url | relative_url }}">
 				<h2 class="post-title">{{ post.title | escape }}</h2>
+				<h3 class="post-subtitle">{{ post.subtitle | escape }}</h3>
 			</a>
 			<div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
 		</div>
@@ -21,4 +22,3 @@ layout: page
 	{%- endfor -%}
 </ul>
 {%- endif -%}
-
