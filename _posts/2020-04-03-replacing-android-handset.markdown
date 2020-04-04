@@ -27,6 +27,9 @@ weekend I will try to build them first for my MotoG and then if I struggle too h
 * [AOSP EXTENDED](https://forum.xda-developers.com/moto-g/development/rom-aospextended-rom-v7-0-t4058451)
   * Seems updated and reliable. Not official! though. Where security patches?
 
+** UPDATE** I found NetHunter (Kali hacker System for Linux) port
+[for my MotoG](https://github.com/alexyang-pixel/NETHUNTER-for-falcon). I can try this too. 
+
 Here is my poor MotoG. Hope we find you a new home this weekend! I will
 search [XDA forums for MotoG roms here](https://forum.xda-developers.com/moto-g)
 
